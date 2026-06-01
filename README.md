@@ -8,8 +8,6 @@ A machine learning project that builds and evaluates five classification models 
 
 This project explores whether patient clinical data can predict which treatment outcomes are most likely — specifically identifying patients whose condition is likely to **Improve**. Two modelling strategies are compared: a full **multiclass approach** (3 outcome classes) and a **binary classification approach** (Improved vs. Not Improved) with class balancing and threshold tuning.
 
-> ⚠️ **Important:** Models in their current state should not be used for clinical treatment decisions. Performance metrics indicate weak predictive signal, likely due to the synthetic nature of the dataset. See [Limitations](#limitations) and [Recommendations](#recommendations).
-
 ---
 
 ## Dataset
