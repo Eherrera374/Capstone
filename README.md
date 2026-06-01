@@ -147,6 +147,4 @@ Based on the analysis, the following next steps are suggested:
 
 ---
 
-## Disclaimer
 
-This project is for educational purposes only. The models and findings presented here should not be used to make real clinical or treatment decisions without rigorous validation by qualified healthcare professionals.
